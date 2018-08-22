@@ -8,12 +8,12 @@ Download the file and include it in your project or use the rawgit to include ea
 ### Installing
 Development: 
 ```
-https://rawgit.com/aaicca/dater/2bdf6a876bf527c8e4124c1533fcb2ad900f3275/dater.js
+https://rawgit.com/aaicca/dater/66a549d425cf053138768317489cdfb0c0441ec5/dater.js
 ```
 
 Production:
 ```
-https://cdn.rawgit.com/aaicca/dater/2bdf6a876bf527c8e4124c1533fcb2ad900f3275/dater.js
+https://cdn.rawgit.com/aaicca/dater/66a549d425cf053138768317489cdfb0c0441ec5/dater.js
 ```
 
 ## Usage
