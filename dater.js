@@ -3,8 +3,6 @@
 	Adrian Legaspi
 	
 	Daterjs v1.0.5
-
-	Improved
 */
 
 class Dater{
