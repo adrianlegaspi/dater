@@ -1,6 +1,6 @@
 # Daterjs
 
-Simple library to handle with more options the Date object.
+Simple library to handle with more options the Date javascript object.
 
 ## Getting started
 Download the file an include it in your project or use the rawgit to include easier.
