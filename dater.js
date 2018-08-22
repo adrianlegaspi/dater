@@ -8,7 +8,7 @@
 class Dater{
 
 	constructor(lang = "es",timezone){
-
+		/* Main class constructor */
 		this.lang = lang;
 		this.timezone = timezone;
 
@@ -16,6 +16,7 @@ class Dater{
 
 		/* Language switch */
 
+		/* Language selection, the class default is Spanish */
 		switch(this.lang){
 			case "es":
 				this.months = ["Enero","Febrero","Marzo","Abril","Mayo","Junio","Julio","Agosto","Septiembre","Octubre","Noviembre","Diciembre"];
